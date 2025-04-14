@@ -1,0 +1,1 @@
+streamlit\njoblib\nscikit-learn\npandas\nnumpy\nmatplotlib
